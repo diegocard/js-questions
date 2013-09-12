@@ -1,5 +1,5 @@
-*JavaScript and jQuery questions and answers*
-=============================================
+JavaScript and jQuery questions and answers
+===========================================
 
 Index
 =====
