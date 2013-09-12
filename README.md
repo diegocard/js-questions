@@ -113,15 +113,15 @@ Object oriented programming
 
 #####1. Does JavaScript support OOP?
 
-  Comming up
+  Coming up
   
 #####2. How does JavaScript inheritance work?
 
-  Comming up
+  Coming up
 
 #####3. Example on how to emulate OOP behavior on JavaScript
 
-  Comming up
+  Coming up
 
 Sources
 -------
