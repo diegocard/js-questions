@@ -28,6 +28,9 @@ JavaScript and jQuery Q&A
  2. [How does JavaScript inheritance work?](/questions/OOP.md#2-how-does-javascript-inheritance-work)
  3. [Example on how to emulate OOP behavior on JavaScript](/questions/OOP.md#3-example-on-how-to-emulate-oop-behavior-on-javascript)
 
+ **jQuery**
+ 
+ Coming up
 
 Sources
 -------
