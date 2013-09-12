@@ -1,14 +1,17 @@
-JavaScript and jQuery questions and answers
-===========================================
+Object oriented programming
+===========================
 
-###Index
+#####1. Does JavaScript support OOP?
 
-**Theorical**
+  Coming up
+  
+#####2. How does JavaScript inheritance work?
 
-**Syntax**
+  Coming up
 
-**Object Oriented Programmin**
+#####3. Example on how to emulate OOP behavior on JavaScript
 
+  Coming up
 
 Sources
 -------
