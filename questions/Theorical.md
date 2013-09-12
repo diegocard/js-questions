@@ -20,7 +20,7 @@ Theorical
   typeof 'foo'; // "string"
 ```
 
-#####4. Does JavaScript Support automatic type conversion?.
+#####4. Does JavaScript Support automatic type conversion?
 
   Yes, Javascript support automatic type conversion.
   
