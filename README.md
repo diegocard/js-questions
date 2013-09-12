@@ -23,11 +23,23 @@ Theorical
 3. Which are JavaScripts's primitive datatypes?
 
   String, Number, Boolean, Array, Object, Null, Undefined.
-  
-  Ejample:
+
 ```javascript
   typeof new String('foo'); // "object" <-- This is called a primitive wrapper
   typeof 'foo'; // "string"
+```
+
+4. Does JavaScript Support automatic type conversion?.
+
+  Yes, Javascript support automatic type conversion.
+  
+```javascript
+  var s = '5';
+  var a = s*1;
+  var b = +s;
+  typeof(s); //"string"
+  typeof(a); //"number"
+  typeof(b); //"number"
 ```
 
 Syntax
