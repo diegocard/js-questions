@@ -1,14 +1,18 @@
-JavaScript and jQuery questions and answers
-=====================================
-
-Compilation of JavaScript and jQuery interview questions and answers.
+*JavaScript and jQuery questions and answers*
+=============================================
 
 Index
------
+=====
+
+**Theorical**
+
+**Syntax**
+
+**Object Oriented Programmin**
 
 
 Theorical
----------
+=========
 
 #####1. What is JavaScript?
 
@@ -67,8 +71,18 @@ The benefit of this method is speed, because the code only needs to traverse the
 This is useful when you want to place more than one event listener on a DOM element since you can put just one listener on all of the elements, 
 thus code simplicity and reduction. One application of this is the creation of one event listener on a page's body element to respond to any click event that occurs within the page's body.
 
+#####9. How do JavaScript timers work? What is a drawback of JavaScript timers?
+
+Timers allow you to execute code at a set time or repeatedly using an interval. 
+This is accomplished with the setTimeout, setInterval, and clearInterval functions. 
+The setTimeout(function, delay) function initiates a timer that calls a specific function after the delay; 
+it returns an id value that can be used to access it later. 
+The setInterval(function, delay) function is similar to the setTimeout function except that it executes repeatedly on the delay and only stops when cancelled. 
+The clearInterval(id) function is used to stop a timer. 
+Timers can be tricky to use since they operate within a single thread, thus events queue up waiting to execute.
+
 Syntax
-------
+======
 
 #####1. What is the difference between “==” and “===”?
   
@@ -109,7 +123,7 @@ The big difference is the first uses coercion, which can have some odd results (
 ```
 
 Object oriented programming
----------------------------
+===========================
 
 #####1. Does JavaScript support OOP?
 
@@ -128,3 +142,4 @@ Sources
 
 - http://www.codeproject.com/Articles/620811/Latest-JavaScript-Interview-Questions-and-Answers
 - http://www.techrepublic.com/blog/software-engineer/javascript-interview-questions-and-answers/
+- https://developer.mozilla.org/en-US/docs/JavaScript/Guide/Details_of_the_Object_Model
