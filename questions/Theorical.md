@@ -59,6 +59,7 @@ that is, all child node events are automatically passed to its parent nodes.
 The benefit of this method is speed, because the code only needs to traverse the DOM tree once. 
 This is useful when you want to place more than one event listener on a DOM element since you can put just one listener on all of the elements, 
 thus code simplicity and reduction. 
+
 One application of this is the creation of one event listener on a page's body element to respond to any click event that occurs within the page's body.
 
 #####9. How do JavaScript timers work? What is a drawback of JavaScript timers?
