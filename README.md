@@ -14,6 +14,7 @@ JavaScript and jQuery Q&A
  7. [What is JavaScript's this keyword?](/questions/Theorical.md#7-what-is-javascripts-this-keyword)
  8. [What is event bubbling?](/questions/Theorical.md#8-what-is-event-bubbling)
  9. [How do JavaScript timers work? What is a drawback of JavaScript timers?](/questions/Theorical.md#9-how-do-javascript-timers-work-what-is-a-drawback-of-javascript-timers)
+ 10. [What are JavaScript closures?](/questions/Theorical.md#10-what-are-javascript-closures)
 
 **Syntax**
 
