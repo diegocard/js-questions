@@ -47,6 +47,7 @@ The value of a variable with no value is undefined (i.e., it has not been initia
 JavaScript's this keyword normally refers to the object that owns the method, but it depends on how a function is called.
 Basically, it points to the currently in scope object that owns where you are in the code.
 When working within a Web page, this usually refers to the Window object. 
+
 If you are in an object created with the new keyword, the this keyword refers to the object being created. 
 When working with event handlers, JavaScript's this keyword will point to the object that generated the event.
 
@@ -54,18 +55,22 @@ When working with event handlers, JavaScript's this keyword will point to the ob
 
 Event bubbling describes the behavior of events in child and parent nodes in the Document Object Model (DOM); 
 that is, all child node events are automatically passed to its parent nodes. 
+
 The benefit of this method is speed, because the code only needs to traverse the DOM tree once. 
 This is useful when you want to place more than one event listener on a DOM element since you can put just one listener on all of the elements, 
-thus code simplicity and reduction. One application of this is the creation of one event listener on a page's body element to respond to any click event that occurs within the page's body.
+thus code simplicity and reduction. 
+One application of this is the creation of one event listener on a page's body element to respond to any click event that occurs within the page's body.
 
 #####9. How do JavaScript timers work? What is a drawback of JavaScript timers?
 
 Timers allow you to execute code at a set time or repeatedly using an interval. 
 This is accomplished with the setTimeout, setInterval, and clearInterval functions. 
+
 The setTimeout(function, delay) function initiates a timer that calls a specific function after the delay; 
 it returns an id value that can be used to access it later. 
 The setInterval(function, delay) function is similar to the setTimeout function except that it executes repeatedly on the delay and only stops when cancelled. 
 The clearInterval(id) function is used to stop a timer. 
+
 Timers can be tricky to use since they operate within a single thread, thus events queue up waiting to execute.
 
 #####10. What are JavaScript closures?
