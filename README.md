@@ -16,6 +16,10 @@ JavaScript and jQuery Q&A
  9. [How do JavaScript timers work? What is a drawback of JavaScript timers?](/questions/Theorical.md#9-how-do-javascript-timers-work-what-is-a-drawback-of-javascript-timers)
  10. [What are JavaScript closures?](/questions/Theorical.md#10-what-are-javascript-closures)
 
+**Web**
+1. [What is the difference between window.onload and onDocumentReady?]()
+2. [What is unobtrusive JavaScript? How to add behavior to an element using JavaScript?]()
+
 **Syntax**
 
  1. [What is the difference between “==” and “===”?](/questions/Syntax.md#1-what-is-the-difference-between--and-)
@@ -39,3 +43,4 @@ Sources
 - http://www.codeproject.com/Articles/620811/Latest-JavaScript-Interview-Questions-and-Answers
 - http://www.techrepublic.com/blog/software-engineer/javascript-interview-questions-and-answers/
 - https://developer.mozilla.org/en-US/docs/JavaScript/Guide/Details_of_the_Object_Model
+- http://vikasrao.wordpress.com/2010/02/07/common-javascript-interview-questions/
