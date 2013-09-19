@@ -17,8 +17,9 @@ JavaScript and jQuery Q&A
  10. [What are JavaScript closures?](/questions/Theorical.md#10-what-are-javascript-closures)
 
 **Web**
-1. [What is the difference between window.onload and onDocumentReady?]()
-2. [What is unobtrusive JavaScript? How to add behavior to an element using JavaScript?]()
+
+1. [What is the difference between window.onload and onDocumentReady?](/questions/Web.md#1-what-is-the-difference-between-windowonload-and-ondocumentready)
+2. [What is unobtrusive JavaScript? How to add behavior to an element using JavaScript?](/questions/Web.md#2-what-is-unobtrusive-javascript-how-to-add-behavior-to-an-element-using-javascript)
 
 **Syntax**
 
