@@ -6,7 +6,7 @@ Theorical
   JavaScript is a prototype-based, interpreted programming with dynamic typing and has first-class functions. 
   This language is most often used for client-side web development.
 
-#####2. What is the difference between JavaScript and Jscript? 
+#####2. What is the difference between JavaScript and JScript? 
 
   Both JavaScript and Jscript are similar. JavaScript was developed by Netscape. 
   JScript is Microsoft's dialect of the ECMAScript standard that is used in Microsoft's Internet Explorer.
