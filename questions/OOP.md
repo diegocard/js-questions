@@ -29,7 +29,4 @@ Object oriented programming
 
   Coming up
 
-Sources
--------
 
-- https://developer.mozilla.org/en-US/docs/JavaScript/Guide/Details_of_the_Object_Model
