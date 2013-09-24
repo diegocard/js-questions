@@ -22,19 +22,15 @@ This model is also known as class-less, prototype-oriented, or instance-based pr
 
   Coming up
 
-#####4. Inheritance
+#####4. Encapsulation
 
   Coming up
 
-#####5. Encapsulation
+#####5. Abstraction
 
   Coming up
 
-#####6. Abstraction
-
-  Coming up
-
-#####7. Polymorphism
+#####6. Polymorphism
 
   Coming up
 
