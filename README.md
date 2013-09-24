@@ -31,8 +31,11 @@ JavaScript and jQuery Q&A
 **Object Oriented Programming**
 
  1. [Does JavaScript support OOP?](/questions/OOP.md#1-does-javascript-support-oop)
- 2. [How does JavaScript inheritance work?](/questions/OOP.md#2-how-does-javascript-inheritance-work)
- 3. [Example on how to emulate OOP behavior on JavaScript](/questions/OOP.md#3-example-on-how-to-emulate-oop-behavior-on-javascript)
+ 2. [Inheritance](/questions/OOP.md#2-inheritance)
+ 3. [Constructors](/questions/OOP.md#3-constructors)
+ 4. [Encapsulation](/OOP.md#4-encapsulation)
+ 5. [Abstraction](/questions/OOP.md#5-abstraction)
+ 6. [Polymorphism](/questions/OOP.md#6-polymorphism)
 
 **jQuery**
  
