@@ -14,7 +14,7 @@ existing objects which serve as prototypes.
 
 This model is also known as class-less, prototype-oriented, or instance-based programming.
   
-#####2. How does JavaScript inheritance work?
+#####2. Inheritance
 
   Coming up
 
