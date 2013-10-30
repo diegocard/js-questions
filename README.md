@@ -39,7 +39,7 @@ JavaScript and jQuery Q&A
 
 **jQuery**
  
- Coming up
+ Coming up.
 
 Sources
 -------
