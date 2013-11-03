@@ -39,7 +39,17 @@ JavaScript and jQuery Q&A
 
 **jQuery**
  
- Coming up.
+ 1. [How do I select elements when I already have a DOM element?](/questions/jQuery.md#1-how-do-i-select-elements-when-i-already-have-a-dom-element)
+ 2. [How do I test whether an element has a particular class?](/questions/jQuery.md#2-how-do-i-test-whether-an-element-has-a-particular-class)
+ 3. [How do I test whether an element exists?](/questions/jQuery.md#3-how-do-i-test-whether-an-element-exists)
+ 4. [How do I determine the state of a toggled element?](/questions/jQuery.md#4-how-do-i-determine-the-state-of-a-toggled-element)
+ 5. [How do I select an element by an ID that has characters used in CSS notation?](/questions/jQuery.md#5-how-do-i-select-an-element-by-an-id-that-has-characters-used-in-css-notation)
+ 6. [How do I disable/enable a form element?](/questions/jQuery.md#6-how-do-i-disableenable-a-form-element)
+ 7. [How do I check/uncheck a checkbox input or radio button?](/questions/jQuery.md#7-how-do-i-checkuncheck-a-checkbox-input-or-radio-button)
+ 8. [How do I get the text value of a selected option?](/questions/jQuery.md#8-how-do-i-get-the-text-value-of-a-selected-option)
+ 9. [How do I replace text from the 3rd element of a list of 10 items?](/questions/jQuery.md#9-how-do-i-replace-text-from-the-3rd-element-of-a-list-of-10-items)
+ 10. [How do I pull a native DOM element from a jQuery object?](/questions/jQuery.md#10-how-do-i-pull-a-native-dom-element-from-a-jquery-object)
+ 11. [How do I create a jQuery plugin?](/questions/jQuery.md#11-how-do-i-create-a-jquery-plugin)
 
 Sources
 -------
