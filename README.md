@@ -48,3 +48,4 @@ Sources
 - http://www.techrepublic.com/blog/software-engineer/javascript-interview-questions-and-answers/
 - https://developer.mozilla.org/en-US/docs/JavaScript/Guide/Details_of_the_Object_Model
 - http://vikasrao.wordpress.com/2010/02/07/common-javascript-interview-questions/
+- http://learn.jquery.com/using-jquery-core/faq/
