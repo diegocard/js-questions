@@ -52,7 +52,7 @@ JavaScript and jQuery Q&A
  11. [How do I create a jQuery plugin?](/questions/jQuery.md#11-how-do-i-create-a-jquery-plugin)
 
 Sources
--------
+--------
 
 - http://www.codeproject.com/Articles/620811/Latest-JavaScript-Interview-Questions-and-Answers
 - http://www.techrepublic.com/blog/software-engineer/javascript-interview-questions-and-answers/
